@@ -1,4 +1,4 @@
-<img width="790" height="590" alt="output" src="https://github.com/user-attachments/assets/11486705-2c4b-4bdb-8f82-d592a70c2311" /># Basketball Free Throw – Speed vs Angle Maps
+# Basketball Free Throw – Speed vs Angle Maps
 
 This project explores basketball shot trajectories (no air resistance) and visualizes relationships between launch speed and angle under official dimensions. It also computes optimal (minimal speed) angles for various heights and distances.
 
