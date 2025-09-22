@@ -59,6 +59,7 @@ To pass exactly through hoop height H_rim at x = x_target, the minimal speed for
 Feasibility requires the denominator to be positive; otherwise, no solution exists for that θ.
 
 <img width="790" height="590" alt="output" src="https://github.com/user-attachments/assets/12377fde-82f8-4846-8c4b-2923a1a062c6" />
+
 Release height xx = 1.9 m, Distance yy = 4.6 m
 Targets x (m): front=4.49, center=4.60, back=4.71
 
