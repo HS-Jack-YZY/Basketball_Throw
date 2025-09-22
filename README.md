@@ -1,4 +1,4 @@
-# Basketball Free Throw – Speed vs Angle Maps
+<img width="790" height="590" alt="output" src="https://github.com/user-attachments/assets/11486705-2c4b-4bdb-8f82-d592a70c2311" /># Basketball Free Throw – Speed vs Angle Maps
 
 This project explores basketball shot trajectories (no air resistance) and visualizes relationships between launch speed and angle under official dimensions. It also computes optimal (minimal speed) angles for various heights and distances.
 
@@ -59,7 +59,8 @@ To pass exactly through hoop height H_rim at x = x_target, the minimal speed for
 Feasibility requires the denominator to be positive; otherwise, no solution exists for that θ.
 
 <img width="790" height="590" alt="output" src="https://github.com/user-attachments/assets/12377fde-82f8-4846-8c4b-2923a1a062c6" />
-
+Release height xx = 1.9 m, Distance yy = 4.6 m
+Targets x (m): front=4.49, center=4.60, back=4.71
 
 ## Using the notebook
 
