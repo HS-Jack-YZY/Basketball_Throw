@@ -2,6 +2,28 @@
 
 This project explores basketball shot trajectories (no air resistance) and visualizes relationships between launch speed and angle under official dimensions. It also computes optimal (minimal speed) angles for various heights and distances.
 
+## Prompt for GPT5
+Prompt:
+
+Write a Python script that visualizes basketball shooting trajectories with the following requirements:
+
+Assume a person of height xx meters is standing yy meters away from the hoop.
+The person throws a basketball at an angle zz (degrees) and with an initial speed vv (m/s).
+Both the basketball and the hoop have standard official radii:
+Basketball radius: 0.12 m
+Hoop radius: 0.23 m
+The hoop height: 3.05 m (standard)
+The script should plot a figure where:
+The x-axis is the initial speed (vv, m/s)
+The y-axis is the launch angle (zz, degrees)
+Draw three curves:
+The combinations of speed and angle that allow the ball's center to just pass through the front edge of the hoop.
+The combinations for the center of the hoop.
+The combinations for the back edge of the hoop.
+Use matplotlib for plotting. Assume no air resistance.
+The script should let me change the thrower's height (xx) and the distance to the hoop (yy) easily at the top of the script.
+Please provide full code with comments.
+
 ## Contents
 
 - `main.ipynb` – Interactive notebook that:
